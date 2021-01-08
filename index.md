@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -6,7 +7,7 @@
 	<title>Test of Tests</title>
 </head>
 <body>
-	<h1>Feature/demo branch Merge Conflict Solved</h1>
+	<h1>The Merge Conflict Has Been Resolved!</h1>
 	<p>This is the Source Control Project. A project that's all about working with Github</p>
 
 </body>
